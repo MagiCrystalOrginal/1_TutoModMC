@@ -24,7 +24,7 @@ public class TutorialMod
     // Directly reference a slf4j logger
     private static final Logger LOGGER = LogUtils.getLogger();
 
-
+//test
     public TutorialMod()
     {
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
